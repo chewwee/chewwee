@@ -1,16 +1,21 @@
-### Hi there 👋
+## Chew Wee 🙋‍♀️
 
-<!--
-**chewwee/chewwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+I am Chew Wee from Malaysia. A self-taught data analyst who is passionate about data analysis and data visualization.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Tools
+
+Skills: 
+* Data Cleaning, Exploration and Analysis 
+* Data Visualization
+
+Tools:
+* Database: SQL(PostgreSQL, MySQL, SQL Server), Microsoft Excel
+* Visualization: Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn
+* Python: Panda
+
+
+## 📫 Connect with Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chew-wee-tnee/)  
+
