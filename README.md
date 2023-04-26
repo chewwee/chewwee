@@ -3,6 +3,8 @@
 Hi there 👋
 I am Chew Wee from Malaysia. A self-taught data analyst who is passionate about data analysis and data visualization.
 
+I am deeply committed to lifelong learning and always eager to share my knowledge with anyone else who is interested. 
+
 
 ## 🛠️ Skills and Tools
 
