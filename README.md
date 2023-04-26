@@ -15,6 +15,8 @@ Tools:
 * Visualization: Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn
 * Python: Panda
 
+## View my Portfolio
+
 
 ## 📫 Connect with Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chew-wee-tnee/)  
