@@ -16,6 +16,7 @@ Tools:
 * Python: Panda
 
 ## View my Portfolio
+Click [here](https://github.com/chewwee/portfolio) to view my portfolio.
 
 
 ## 📫 Connect with Me
