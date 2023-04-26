@@ -11,7 +11,7 @@ Skills:
 * Data Visualization
 
 Tools:
-* Database: SQL( PostgreSQL, MySQL, SQL Server), Microsoft Excel
+* Database: SQL (PostgreSQL, MySQL, SQL Server), Microsoft Excel
 * Visualization: Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn
 * Python: Panda
 
