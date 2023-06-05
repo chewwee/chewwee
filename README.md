@@ -14,7 +14,7 @@ Skills:
 
 Tools:
 * Database: SQL (PostgreSQL, MySQL, SQL Server), Microsoft Excel
-* Visualization: Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn
+* Visualization: Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn, Plotly
 * Python: Panda
 
 
